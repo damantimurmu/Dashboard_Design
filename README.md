@@ -18,14 +18,14 @@ To build an interactive Tableau dashboard that helps business stakeholders track
 
 ### Dashboard Features
 
--  **KPI Cards**: Total Sales, Quantity Sold, Discounts Applied  
--  **Geo Maps**: Sales by Country & City  
--  **Time Series**: Monthly/Quarterly Sales Trend  
--  **Customer Segmentation**: Gender, Age Group, Country  
--  **Product Breakdown**: Top Categories/Subcategories  
--  **Top Transactions**: High-value Customers and Stores  
--  **Filters/Slicers**: Country, Category, Year, Gender  
--  **Navigation Menu**: Toggle between Sales, Discounts, Customers
+- **KPI Cards:** Total Sales, Quantity Sold, Discounts Applied
+- **Geo Maps:** Sales by Country & City
+- **Time Series:** Yearly Sales Trend
+- **Customer Segmentation:** Top 10 customers
+- **Product Breakdown:** Top Performing Subcategories
+- **Top Transactions:** High-value Customers and Stores
+- **Filters/Slicers:** Category, Month
+- **Navigation Menu:** Monthly Sales Trend
 
 ---
 
@@ -53,6 +53,36 @@ To build an interactive Tableau dashboard that helps business stakeholders track
 | `summary.md`             | Executive summary of findings and insights                          |
 
 ## Recommendations
+
+- Sales Recovery Strategy for 2025
+
+   - Conduct root cause analysis for the sharp sales drop.
+   - Strengthen promotional campaigns and product launches.
+
+- Geographic Reallocation
+
+   - Invest further in Asian markets where demand is high.
+   - Reassess the viability of underperforming European stores.
+
+- Product Strategy Optimization
+
+   - Promote top-selling categories through featured collections and upselling.
+   - Consider bundling or discounts for lower-performing categories like Suits and Sets.
+
+- Customer Retention
+
+   - Introduce loyalty programs or VIP services for top customers.
+   - Personalized marketing based on spending habits.
+
+- Payment Strategy
+
+   - Enhance digital payment infrastructure.
+   - Consider adding flexible payment options like BNPL (Buy Now Pay Later).
+
+- Discount Management
+
+   - Keep discounts limited; maintain focus on value-based pricing.
+   - Leverage occasional markdowns only for aged inventory.
 
 ---
 
